@@ -9,3 +9,10 @@ Uses adaptive layout on such extensions
 - Notebook 1280px
 - Tablet 1024
 - Mobile (> 320px)
+
+Шn order to run the project you need
+
+- Fork repo
+- Clone forked repo
+- npm install
+- npm start
